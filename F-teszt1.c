@@ -3,7 +3,7 @@
 
 int main ()
 {
-pirintf("Első teszt\n");
+printf("Első teszt\n");
     return 0;
 }
     
