@@ -1,1 +1,8 @@
-printf("asdasd");
+#include <stdio.h>
+#include <stdlib.h>
+
+int main ();
+{
+    pirintf("Első teszt\n");
+    return 0;
+}
