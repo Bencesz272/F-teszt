@@ -1,8 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main ();
+int main ()
 {
-    pirintf("Első teszt\n");
+pirintf("Első teszt\n");
     return 0;
 }
+    
